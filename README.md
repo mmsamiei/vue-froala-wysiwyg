@@ -299,3 +299,5 @@ If you want to contribute to vue-froala-wyswiyg, you will first need to install 
 #### Run Demo
 
     $ npm run dev
+
+mmsamiei
